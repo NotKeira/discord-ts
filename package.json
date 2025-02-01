@@ -1,0 +1,12 @@
+{
+  "name": "discord-ts",
+  "version": "1.0.0",
+  "description": "A simple discord bot using typescript, nodejs and discord.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
