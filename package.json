@@ -2,11 +2,19 @@
   "name": "discord-ts",
   "version": "1.0.0",
   "description": "A simple discord bot using typescript, nodejs and discord.js.",
-  "main": "index.js",
+  "main": "src/main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.0",
+    "tsc": "^2.0.4",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "discord.js": "^14.17.3"
+  }
 }
